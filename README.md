@@ -1,4 +1,4 @@
-# 电商双12业务数据分析实战项目 · D12 Commerce Analytics
+# 电商双12业务数据分析实战项目 · D12 E-Commerce Data Analytics
 
 > 真实业务问题驱动的端到端数据分析流程（数据提取清洗/EDA/用户分群/用户画像/购买行为序列/留存分析）。  
 > An end-to-end, business-driven analytics workflow (ETL/Cleaning, EDA, Segmentation, Personas, Purchase Sequences, Retention).
