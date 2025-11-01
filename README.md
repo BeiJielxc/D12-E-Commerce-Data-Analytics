@@ -174,7 +174,8 @@ Use **Retentioneering’s path-similarity clustering** to group users’ purchas
 
 ### 业务问题4：购买行为序列分析
 ### Business Question4：Purchase behavior sequence analysis
-
+![10 pattern（alt）](assets/newplot10.png)
+![11 pattern（alt）](assets/newplot11.png)
 
 
 
