@@ -122,10 +122,10 @@ Although the primary goal on the mega-sale day is to sell, during the retrospect
 - **Pre-/post-event cohort comparison**
 
 #### 双12活动新用户1/3/7日转化率
-![双12活动用户分群聚类画像（alt）](assets/newplot7.png)
+![双12活动用户分群聚类画像（alt）](assets/newplot(6).png)
 
 #### 双12活动新用户和其他口径新用户1/3/7日转化率对比折线图
-![双12活动用户分群聚类画像细节（alt）](assets/newplot8.png)
+![双12活动用户分群聚类画像细节（alt）](assets/newplot(7).png)
 
 
 ### 业务问题3：在购买当日，基于用户行为对用户画像进行聚类。
@@ -157,10 +157,10 @@ Use **Retentioneering’s path-similarity clustering** to group users’ purchas
 - **Dwell steps / path length** for each cluster
 
 #### 双12活动用户分群聚类画像
-![双12活动用户分群聚类画像（alt）](assets/newplot7.png)
+![双12活动用户分群聚类画像（alt）](assets/newplot8.png)
 
 #### 双12活动用户分群聚类画像细节
-![双12活动用户分群聚类画像细节（alt）](assets/newplot8.png)
+![双12活动用户分群聚类画像细节（alt）](assets/newplot9.png)
 
 #### 聚类0 pattern
 ![聚类0 pattern（alt）](assets/plot1.png)
