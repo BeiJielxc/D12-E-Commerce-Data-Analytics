@@ -76,6 +76,19 @@ Open main_en.ipynb and run all cells in order. Follow the in-notebook comments t
 1. **Pre-event, in-event, and post-event** **Sankey** overall funnel **+** step-level conversions.
 2. **Pre-event, in-event, and post-event** **conversion-rate funnel** **+** step-level conversions.
 
+#### 双12前3天sankey图
+![双12前3天sankey图（alt）](assets/newplot(1).png)
+#### 双12后3天sankey图
+![双12后3天sankey图（alt）](assets/newplot(2).png)
+#### 双12活动3天内sankey图
+![双12活动3天内sankey图（alt）](assets/newplot(3).png)
+#### 双12前3天转换率漏斗图
+![双12前3天转换率漏斗图（alt）](assets/newplot3.png)
+#### 双12后3天转换率漏斗图
+![双12后3天转换率漏斗图（alt）](assets/newplot4.png)
+#### 双12活动3天内转换率漏斗图
+![双12活动3天内转换率漏斗图（alt）](assets/newplot5.png)
+
 ### 业务问题2：针对双12活动，新获客用户在首日触点之后的复访/复购表现如何？活动是否带动了后续活跃？
 
 #### （A）留存的价值
