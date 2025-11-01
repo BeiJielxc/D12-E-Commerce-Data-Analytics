@@ -121,6 +121,13 @@ Although the primary goal on the mega-sale day is to sell, during the retrospect
 - **Cohort heatmap**
 - **Pre-/post-event cohort comparison**
 
+#### 双12活动新用户1/3/7日转化率
+![双12活动用户分群聚类画像（alt）](assets/newplot7.png)
+
+#### 双12活动新用户和其他口径新用户1/3/7日转化率对比折线图
+![双12活动用户分群聚类画像细节（alt）](assets/newplot8.png)
+
+
 ### 业务问题3：在购买当日，基于用户行为对用户画像进行聚类。
 
 #### 方法
@@ -148,6 +155,22 @@ Use **Retentioneering’s path-similarity clustering** to group users’ purchas
 - **Cluster sizes**
 - **Conversion rates** per cluster
 - **Dwell steps / path length** for each cluster
+
+#### 双12活动用户分群聚类画像
+![双12活动用户分群聚类画像（alt）](assets/newplot7.png)
+
+#### 双12活动用户分群聚类画像细节
+![双12活动用户分群聚类画像细节（alt）](assets/newplot8.png)
+
+#### 聚类0 pattern
+![聚类0 pattern（alt）](assets/plot1.png)
+#### 聚类1 pattern
+![聚类1 pattern（alt）](assets/plot2.png)
+#### 聚类2 pattern
+![聚类2 pattern（alt）](assets/plot3.png)
+#### 聚类3 pattern
+![聚类3 pattern（alt）](assets/plot4.png)
+
 
 ### 业务问题4：购买行为序列分析
 ### Business Question4：Purchase behavior sequence analysis
